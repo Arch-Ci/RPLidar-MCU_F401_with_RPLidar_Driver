@@ -1,6 +1,7 @@
 /*
  *  RPLIDAR STM32 Driver
  * 
+ *  Copyright (c) Arch-Ci
  *  Author: Arch-Ci
  *  Date: 2019.8
  *
