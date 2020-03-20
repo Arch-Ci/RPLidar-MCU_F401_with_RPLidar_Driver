@@ -1,0 +1,15 @@
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\bin\armstlink2.dll" 
+
+"C:\RPLidar-MCU_F401_with_RPLidar_Driver\EWARM\RPLidar-MCU_F401\Exe\RPLidar-MCU_F401.out" 
+
+--plugin "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\bin\armbat.dll" 
+
+--device_macro "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\config\flashloader\ST\FlashSTM32F401xE.board" 
+
+
+
+

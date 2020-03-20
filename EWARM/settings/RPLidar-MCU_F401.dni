@@ -1,0 +1,120 @@
+[StLinkDriver]
+stlinkserialNo=9813A92B
+stlinkfoundProbes=
+CStepIntDis=_ 0
+LeaveTargetRunning=_ 0
+[DebugChecksum]
+Checksum=1008939089
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[SWOTraceHWSettings]
+OverrideDefaultClocks=0
+CpuClock=84000000
+ClockAutoDetect=0
+ClockWanted=2000000
+JtagSpeed=2000000
+Prescaler=42
+TimeStampPrescIndex=0
+TimeStampPrescData=0
+PcSampCYCTAP=1
+PcSampPOSTCNT=15
+PcSampIndex=0
+DataLogMode=0
+ITMportsEnable=0
+ITMportsTermIO=0
+ITMportsLogFile=0
+ITMlogFile=$PROJ_DIR$\ITM.log
+[Trace2]
+Enabled=0
+ShowSource=0
+[SWOTraceWindow]
+PcSampling=0
+InterruptLogs=0
+ForcedTimeStamps=0
+EventCPI=0
+EventEXC=0
+EventFOLD=0
+EventLSU=0
+EventSLEEP=0
+[DataLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+[EventLog]
+Title_0=Ch3
+Symbol_0=0 4 1
+Title_1=Ch2
+Symbol_1=0 4 1
+Title_2=Ch1
+Symbol_2=0 4 1
+Title_3=Ch0
+Symbol_3=0 4 1
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+SumSortOrder=0
+[InterruptLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+SumSortOrder=0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[DriverProfiling]
+Enabled=0
+Mode=3
+Graph=0
+Symbiont=0
+Exclusions=
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=1
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "C:\Users\Administrator\Desktop\RPLidar-MCU_F401_transfer_05KB_data_PWM_A3M1_DMA_flip_flop_printf_to_UART2_rplidar_driver\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim.c" ""
+A1=_ "C:\Users\Administrator\Desktop\RPLidar-MCU_F401_with_RPLidar_Driver\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim.c" ""
+A2=_ "C:\Users\Administrator\Desktop\RPLidar-MCU_F401_with_RPLidar_Driver\Src\main.c" ""
+A3=_ "C:\Users\Administrator\Desktop\RPLidar-MCU_F401_with_RPLidar_Driver\Src\serial.c" ""
+A4=_ "C:\Users\Administrator\Desktop\RPLidar-MCU_F401_with_RPLidar_Driver_Single_DMA_Buffer_Shared_With_CPU\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim.c" ""
+A5=_ "C:\Users\Administrator\Desktop\RPLidar-MCU_F401_with_RPLidar_Driver_Triple_DMA_Buffer\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim.c" ""
+A6=_ "C:\Users\Administrator\Desktop\RPLidar-MCU_F401_with_RPLidar_Driver_Triple_DMA_Buffer\Src\main.c" ""
+A7=_ "C:\Users\Administrator\Desktop\RPLidar-MCU_F401_with_RPLidar_Driver_Triple_DMA_Buffer\Src\serial.c" ""
+A8=_ "C:\Users\Administrator\Desktop\RPLidar-MCU_F401_with_RPLidar_Driver_Triple_DMA_Buffer_improve_more\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim.c" ""
+A9=_ "C:\Users\Administrator\Downloads\RPLidar-MCU\RPLidar-MCU_F401_transfer_32KB_data_PWM_rplidar_driver\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c" ""
+A10=_ "C:\Users\Administrator\Downloads\RPLidar-MCU\RPLidar-MCU_F401_transfer_32KB_data_PWM_rplidar_driver\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma.c" ""
+A11=_ "C:\Users\Administrator\Downloads\RPLidar-MCU\RPLidar-MCU_F401_transfer_32KB_data_PWM_rplidar_driver\Src\main.c" ""
+A12=_ "C:\Users\Administrator\Downloads\RPLidar-MCU\RPLidar-MCU_F401_transfer_32KB_data_PWM_rplidar_driver\Src\stm32f4xx_hal_msp.c" ""
+Count=13
+SuppressDialog=1

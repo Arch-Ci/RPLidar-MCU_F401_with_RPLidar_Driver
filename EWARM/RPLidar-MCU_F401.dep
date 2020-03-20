@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>404632630</fileChecksum>
+  <configuration>
+    <name>RPLidar-MCU_F401</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\Src\main.c</file>
+      <file>$PROJ_DIR$\..\Inc\main.h</file>
+      <file>$PROJ_DIR$\..\Src\net_socket.c</file>
+      <file>$PROJ_DIR$\..\Src\net_socket.h</file>
+      <file>$PROJ_DIR$\..\Src\rplidar.c</file>
+      <file>$PROJ_DIR$\..\Src\rplidar.h</file>
+      <file>$PROJ_DIR$\..\Src\serial.c</file>
+      <file>$PROJ_DIR$\..\Src\serial.h</file>
+      <file>$PROJ_DIR$\..\Src\stm32f4xx_hal_msp.c</file>
+      <file>$PROJ_DIR$\..\Src\stm32f4xx_it.c</file>
+      <file>$PROJ_DIR$\..\Src\task.c</file>
+      <file>$PROJ_DIR$\..\Src\task.h</file>
+      <file>$PROJ_DIR$\..\Src\timer.c</file>
+      <file>$PROJ_DIR$\..\Src\timer.h</file>
+      <file>$PROJ_DIR$\..\Src\uart_dma.c</file>
+      <file>$PROJ_DIR$\..\Src\uart_dma.h</file>
+    </outputs>
+  </configuration>
+</project>
+
+
